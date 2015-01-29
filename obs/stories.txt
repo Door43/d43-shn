@@ -48,3 +48,6 @@
   - [[shn:obs:48|Jesus is the Promised Messiah]]
   - [[shn:obs:49|God's New Covenant]]
   - [[shn:obs:50|Jesus Returns]]
+  * [[shn:obs:front-matter|Front Matter]]
+  * [[shn:obs:back-matter|Back Matter]]
+  * [[shn:obs:app_words|Mobile App Words]]

@@ -24,3 +24,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/shn|Ethnologue data]]
+
+**Resources**
+
+  * [[shn:obs|Open Bible Stories (shn)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:shn:obs:status}}

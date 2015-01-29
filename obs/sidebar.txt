@@ -1,11 +1,33 @@
 
 ----
 
-**[[shn:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>shn:obs:stories}}
+  * [[shn:home|Door43 (shn)]]
 
+**Resources**
+
+  * [[shn:obs|Open Bible Stories (shn)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shn|d43-shn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shn/archive/master.zip|d43-shn.zip]]
+
+**Recent Changes**
+{{changes>ns = shn}}
 
 **Latest Status**
 {{page>en:uwadmin:shn:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shn|Ethnologue data]]
+
+**Resources**
+
+  * [[shn:obs|Open Bible Stories (shn)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:shn:obs:status}}

@@ -9,17 +9,12 @@
 
   * [[shn:obs|Open Bible Stories (shn)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-shn|d43-shn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shn/archive/master.zip|d43-shn.zip]]
 
 **Recent Changes**
 {{changes>ns = shn}}
-
-**Latest Status**
-{{page>en:uwadmin:shn:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[shn:obs|Open Bible Stories (shn)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:shn:obs:status}}
